@@ -36,3 +36,7 @@
 If you are interested in working with me, please feel free to contact me anytime. I would love to hear from you and discuss how we can collaborate on your next project.
 
 Best regards.
+
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
