@@ -2,7 +2,7 @@
 ## 🚀 About Me
 #### I'm currently working as a Software Engineer with over 9 years of experience in the software application development.
 
-#### 🔥 Specializing in DeFi application development, web application development and microservices architecture, I bring a wealth of experience and skills in code/no-code tech, ensuring the highest quality results and client satisfaction.
+#### 🔥 Specializing in Web application development, DeFi application development and microservices architecture, I bring a wealth of experience and skills in code/no-code tech, ensuring the highest quality results and client satisfaction.
 
 #### 🥇 My passion is turning complex problems into beautiful, functional, and scalable solutions.
 
