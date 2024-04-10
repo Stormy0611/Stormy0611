@@ -1,28 +1,22 @@
 # Hi there! 👋
 ## 🚀 About Me
-#### I'm currently working as a Software Engineer with over 9 years of experience in the software application development.
-
+#### I'm currently working as a Software Engineer with over 9 years of expertise in the software application development.
 #### 🔥 Specializing in Web application development, DeFi application development and microservices architecture, I bring a wealth of experience and skills in code/no-code tech, ensuring the highest quality results and client satisfaction.
-
 #### 🥇 My passion is turning complex problems into beautiful, functional, and scalable solutions.
-
-#### 🎁 I have worked on several projects related to data extraction, automation, Chatbot development, web3 integration, DeFi application development, with various languages such as 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁/TypeScript, Python, PHP, Golang, C#, etc.
-
+#### 🎁 I have worked on several projects related to data extraction, automation, Chatbot development, web3 integration, DeFi application development, with various languages such as Python, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁/TypeScript, 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, PHP, Golang, C#, etc.
 ### 🎭 My Skill Set ?
 #### - ✅ DeFi:
-- Solana, EVM Networks, Telegram Bot, Uniswap v2/v3, Smart Contract, MEV Bot, web3.js, Tokenomics, Signal Bots, Trading Bot (Sniper, Margin, Arbitrage, Sandwitch)
+- Solana, EVM Networks, Layer2 Chains, Telegram Bot, Uniswap v2/v3, Smart Contract, MEV Bot, web3.js, Tokenomics, Signal Bots, Trading Bot (Sniper, Margin, Arbitrage, Sandwitch)
 #### - ✅ Data Extraction:
-- Python Selenium, Scrapy, Node.js Puppeteer
+- Selenium, Scrapy, Puppeteer
 #### - ✅ Generative AI/NLP/Image Processing:
 - OpenAI LLMs, Sora Video Gen Model, GPT, Whisper Speech Model, LOVO Open API(AI Voice Cloning), Azure AI services, LangChain
-#### - ✅ CMS/No-Code
-- Webflow, Wordpress, Shopify, Bubble.io
-#### - ✅ Frontend:
-- React.js/Redux, Material-ui, TailwindCSS, SCSS
 #### - ✅ Backend
-- Django, Flask MVC, FastAPI, Node.js, Express, Laravel, ASP.NET
+- Django, Flask MVC, FastAPI, Node.js, Express, Laravel
 #### - ✅ Database
 - MySQL, PostgreSQL, MongoDB, DynamoDB, VectorDB, Redis.
+#### - ✅ Frontend:
+- Next.js, TailwindCSS
 #### - ✅ Version Control
 - Git, Gitflow, Gitlab, Github.
 #### - ✅ DevOps
