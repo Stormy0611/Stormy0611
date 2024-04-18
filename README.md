@@ -11,24 +11,24 @@
 - MEV bot development, Jito in Solana
 - Data extraction & Backend logic implementation.
 
-#### 
-✅ Blockchain DeFi:
+#### 🎭 My Skill Set ?
+- ✅ Blockchain DeFi:
 Solana, EVM Networks, Layer2 Chains, Telegram Bot, Uniswap v2/v3, Smart Contract, MEV Bot, web3.js, Tokenomics, Signal Bots, Trading Bot (Sniper, Margin, Arbitrage, Sandwich)
-✅ Data Extraction:
+- ✅ Data Extraction:
 Selenium, Scrapy, Puppeteer
-✅ Generative AI/NLP/Image Processing:
+- ✅ Generative AI/NLP/Image Processing:
 OpenAI LLMs, Sora Video Gen Model, GPT, Whisper Speech Model, LOVO Open API(AI Voice Cloning), Azure AI services, LangChain
-✅ Backend
+- ✅ Backend
 Django, Flask MVC, FastAPI, Node.js, Express
-✅ Database
+- ✅ Database
 MySQL, PostgreSQL, MongoDB, DynamoDB, VectorDB, Redis.
-✅ Frontend:
+- ✅ Frontend:
 Next.js, TailwindCSS
-✅ Version Control
+- ✅ Version Control
 Git, Gitflow, Gitlab, Github.
-✅ DevOps
+- ✅ DevOps
 CI/CD Pipeline, Docker, AWS, Azure, Nginx, Docker.
-✅ Project Management
+- ✅ Project Management
 JIRA, Trello, Notion, Miro, Slack, Asana, Postman.
 
 #### 🔍 Open to work on challenging and exciting projects that can showcase my skills and help me grow as a developer.
