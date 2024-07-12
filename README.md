@@ -7,7 +7,7 @@
 - Passionate ERC, ERC-20, NFT, and other on-chain contract on EVM, L2, SUI, SEI, Solana, etc. and introduce them into business logics.
 - Telegram trading bot/simulators on EVM networks, Solana, L2 chains (Base, Blast)
 - Sniper Bot, Volume Bot, Maker Bot, DCA bot, Copy-Trader, Wallet-tracking bot. etc.
-- Bundling many instructions, transactions and operations in a single transaction to create more volumes and makers with cost-effect, fast-speed running by using MEV/Jito or non-jito.
+- Bundling many instructions, transactions and operations in a single transaction to create more volumes and makers with cost-effect, fast-speed running by using MEV/Jito or non-jito (including Pump.fun, Moonshot, Seiyuan.fun).
 - Developed and support algorithmic trading with Sandwich, Margin, Arbitrage, Flashloan, and Signal Bot.
 - Multi chain Crypto wallet Development.
 - Bridge & Smart contract for multi chain bridge development.
