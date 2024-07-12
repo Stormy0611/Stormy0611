@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b076761d-a8d3-4ea8-af5a-50401800b558)# 🚀 About Me
+# 🚀 About Me
 #### I have been doing all my best for the biggest successes in client's business as a Software Engineer with over 9 years of expertise in the software application development.
 #### 🔥 Specializing in Blockchain architecture, DeFi Bot application development, Web3 Full Stack development, and microservices, I bring a wealth of experience and skills in code/no-code tech, ensuring the highest quality results and client satisfaction.
 - Create EVM private chain from scratch for the specific payment systems based on cryptocurrency, by using open-source or cosmos sdk.
